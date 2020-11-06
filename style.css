@@ -1,0 +1,12 @@
+.container {
+  margin: 50px;
+}
+main .main-line {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+main button {
+  background-color: tan !important;
+  border-color: tan !important;
+}
